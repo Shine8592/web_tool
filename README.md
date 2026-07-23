@@ -1,8 +1,8 @@
-# 在线网址导航 - Web Tool
+# 聆听花瓣雨的故事
 
 [English Doc](./Readme-en.md)
 
-基于 HTML + CSS + JavaScript 开发的在线网址导航工具，界面简洁美观，支持网址收录提交，适合个人或团队使用。
+聆听花瓣雨的个人网站 - 实用网址导航与个人博客
 
 ## 项目特点
 
@@ -15,9 +15,8 @@
 
 ## 在线预览
 
-- GitHub Pages: https://geeeeeeeek.github.io/web_tool/
-- Vercel: https://web-tool-omega.vercel.app/
-- Cloudflare Pages: https://web-a55.pages.dev/
+- GitHub Pages: https://shine8592.github.io/web_tool/
+- Cloudflare Pages: https://yaner.us.ci
 
 ## 快速开始
 
@@ -25,7 +24,7 @@
 
 1. 克隆项目到本地
 ```bash
-git clone https://github.com/geeeeeeeek/web_tool.git
+git clone https://github.com/Shine8592/web_tool.git
 cd web_tool
 ```
 
@@ -72,7 +71,7 @@ scp -r ./* user@your-server:/var/www/web_tool/
 
 # 或者在服务器上使用 git clone
 cd /var/www
-sudo git clone https://github.com/geeeeeeeek/web_tool.git
+sudo git clone https://github.com/Shine8592/web_tool.git
 ```
 
 #### 3. 配置 Nginx
@@ -364,9 +363,9 @@ MIT License
 
 ## 联系方式
 
-- GitHub: https://github.com/geeeeeeeek
-- 个人主页: https://web.gitapp.cn
-- Email: kefu308@gmail.com
+- GitHub: https://github.com/Shine8592
+- 个人主页: https://yaner.us.ci
+- Email: yaner_zf@hotmail.com
 
 ---
 

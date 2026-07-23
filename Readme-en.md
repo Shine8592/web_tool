@@ -1,8 +1,8 @@
-# Web Tool - Online Navigation
+# Listen to Petal Rain - Personal Site
 
 [中文文档](./README.md)
 
-A web navigation tool based on HTML + CSS + JavaScript, with a clean and beautiful interface, supporting URL submission and suitable for personal or team use.
+Personal website of 聆听花瓣雨 - Web navigation and personal blog
 
 ## Features
 
@@ -15,9 +15,8 @@ A web navigation tool based on HTML + CSS + JavaScript, with a clean and beautif
 
 ## Live Demo
 
-- GitHub Pages: https://geeeeeeeek.github.io/web_tool/
-- Vercel: https://web-tool-omega.vercel.app/
-- Cloudflare Pages: https://web-a55.pages.dev/
+- GitHub Pages: https://shine8592.github.io/web_tool/
+- Cloudflare Pages: https://yaner.us.ci
 
 ## Quick Start
 
@@ -25,7 +24,7 @@ A web navigation tool based on HTML + CSS + JavaScript, with a clean and beautif
 
 1. Clone the repository
 ```bash
-git clone https://github.com/geeeeeeeek/web_tool.git
+git clone https://github.com/Shine8592/web_tool.git
 cd web_tool
 ```
 
@@ -72,7 +71,7 @@ scp -r ./* user@your-server:/var/www/web_tool/
 
 # Or use git clone on server
 cd /var/www
-sudo git clone https://github.com/geeeeeeeek/web_tool.git
+sudo git clone https://github.com/Shine8592/web_tool.git
 ```
 
 #### 3. Configure Nginx
@@ -400,9 +399,9 @@ Issues and Pull Requests are welcome!
 
 ## Contact
 
-- GitHub: https://github.com/geeeeeeeek
-- Website: https://web.gitapp.cn
-- Email: kefu308@gmail.com
+- GitHub: https://github.com/Shine8592
+- Website: https://yaner.us.ci
+- Email: yaner_zf@hotmail.com
 
 ---
 
